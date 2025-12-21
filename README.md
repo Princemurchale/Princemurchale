@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I'm currently working on<br>- Building AI-powered Management Systems (Hospital, Bank/ATM, Library, General Store)<br>- Contributing to Government of India's VIVIBHA Vision & Viksit Bharat '24 initiative<br>- Developing secure, scalable Full Stack applications using JAVA & MERN Stack<br>- System Administration projects during my SBI Internship<br><br> 👯 I'm looking to collaborate on<br>- Open-source FinTech projects (payment systems, trading platforms)<br>- Cybersecurity tools & frameworks (vulnerability scanners, ethical hacking utilities)<br>- AI/ML-powered web applications with real-world impact<br>- Government-backed tech initiatives for Digital India<br>- Innovative projects combining tech + social good<br><br>🤝 I'm looking for help with<br>- Advanced Cloud Architecture patterns (AWS, Oracle Cloud scaling)<br>- Blockchain integration** in full-stack applications<br>- Optimizing algorithmic trading strategies<br>- Best practices for secure DevOps pipelines<br>- Contributing to large-scale open-source projects<br><br>🌱 I'm currently learning<br>- Advanced System Design & Microservices Architecture<br>- AI/ML integration in web applications (Oracle AI Foundations certified)<br>- Penetration Testing methodologies (CEH preparation)<br>- Next.js 14+ & modern React patterns<br>- UPSC 2027 preparation (multitasking mode 😄)<br><br> 💬 Ask me about<br>- Modern Java Full Stack Development (JAVA Spring Boot, MERN, Next.js)<br>- Ethical Hacking & Cybersecurity (Gray Hat experiences)<br>- Trading & Investment Analysis (5+ years experience)<br>- Building scalable RESTful , SOAP APIs & database design<br>- Navigating internships at SBI or cracking Oracle/Microsoft certifications<br>- Writing poetry on tech themes (PM Lines) 📝<br>- Balancing college + freelancing + government research<br><br>⚡ Fun fact<br>- I write Shayari (poetry PMLines) that blends technology with emotions - *"Code karta hoon dil se, bugs fix karta hoon dimag se"* 💻❤️<br>- I've been rading & analyzing markets since age 15 (2020) 📈<br>- I'm a Gray Hat Hacker by day and a poet by night 🎭<br>- Managing 9,200+ social media followers while being a full-time student! <br>- I create cybersecurity educational content for Government of India initiatives 🇮🇳<br><br>🏆 Quick Stats<br>- 10+ Full Stack Projects | 1000+ Active Users<br>- Oracle + Microsoft Certified | 50+ Certifications<br>- Government Researcher (VIVIBHA Vision 2024)<br>- SBI Intern | Turing Intern | NXT Wave All Rounds Qualified<br>- 5+ Years Trading Experience<br><br>
 
-<!--
-**Princemurchale/Princemurchale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Fx75) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Princemurchale) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prince Murchale) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prinsmurchale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prins Murchale) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/murchaleprins) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Prins Murchale) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Special_Telephone_50) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PMurchale) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prins Murchale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murchaleprins@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Princemurchale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Princemurchale&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Princemurchale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Princemurchale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Princemurchale&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Prins Murchale) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
