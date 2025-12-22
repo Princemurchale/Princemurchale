@@ -22,12 +22,10 @@ Email Me 👉 ✉️ murchaleprins@gmail.com For Collaboration/Project or Anythi
 ⚡ Fun fact: I'Am Ambivert Person  I Love Poetry And Poetry Love Me
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prince Murchale) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prinsmurchale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prins Murchale) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/murchaleprins) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Special_Telephone_50) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PMurchale) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prins Murchale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murchaleprins@gmail.com) 
-
-<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -52,4 +50,3 @@ Email Me 👉 ✉️ murchaleprins@gmail.com For Collaboration/Project or Anythi
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Prins Murchale) 
 
-  
