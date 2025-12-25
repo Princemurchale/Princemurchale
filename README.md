@@ -20,7 +20,7 @@ Email Me 👉 ✉️ murchaleprins@gmail.com For Collaboration/Project or Anythi
 😄 Pronouns: He/Him (PM)
 
 ⚡ Fun fact: I'Am Ambivert Person
-  ILove Poetry And Poetry LoveMe
+  I Love Poetry And Poetry Love Me
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prinsmurchale) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/murchaleprins) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Special_Telephone_50) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PMurchale) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prins Murchale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murchaleprins@gmail.com) 
 
